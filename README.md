@@ -5,6 +5,9 @@ By Udacity
 
 # Usage
 1. **Clone or Download** this repository, or clone it via npm `git clone https://github.com/UmbreonHugs/feed-reader-testing.git`
+
 2. **Extract** the files anywhere onto your PC
+
 3 **Navigate to index.html** to run the Feed Reader.
+
 4 **Scroll to the bottom** to see the test results of the Feed Reader, powered by Jasmine
